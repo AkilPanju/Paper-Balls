@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../AngryBirdsStage5-master"
+		}
+	],
+	"settings": {
+		"editor.wordBasedSuggestions": false,
+		"typescript.suggest.enabled": false,
+		"javascript.suggest.enabled": false
+	}
+}
